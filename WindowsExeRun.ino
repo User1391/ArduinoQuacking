@@ -2,6 +2,8 @@
 #include <HID.h>
 /* This code was created free and open-source by User1391
  *  Thank you for using this code, and for sharing with others
+ *  
+ *  Change URL_OF_EXE to the actual http url of your exe file. The file should be encrypted.
  */
 void typeKey(int key){
   Keyboard.press(key);
