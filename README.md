@@ -11,3 +11,5 @@ Tested on Arduino Micro. Change the url to the exe of your choice (encrypted if 
 # Disclaimer:
 
 I do not condone the use of any of my code for malicious purposes. I, in fact, highly disagree with anything illegal or anything morally grey, and I will not be liable for the use of my code in any illegal way.
+
+I AM NOT RESPONSIBLE FOR ANYTHING YOU DO WITH MY CODE
