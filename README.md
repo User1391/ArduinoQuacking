@@ -1,6 +1,7 @@
 # ArduinoQuacking
 
 ## Windows Exe Download and Run
+### Estimated time to run: 25-30 seconds
 For an Arduino Rubber Ducky. 
 
 Tested on Arduino Micro. Change the url to the exe of your choice (encrypted if it would be detected by antivirus, NullByte has a great tutorial), upload to the supported Arduino, and plug in to an unlocked Windows computer. Designed for Windows 10.
